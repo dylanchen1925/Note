@@ -267,3 +267,144 @@ annotation-target: CCDA_Official_Cert_Guide_5th.pdf
 >%%TAGS%%
 >
 ^9q4b7tji7pk
+
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-12T13:42:28.343Z","text":"Steps to identify customer requirements","updated":"2022-11-12T13:42:28.343Z","document":{"title":"CCDA 200-310 Official Cert Guide","link":[{"href":"urn:x-pdf:e76ce310863e7a41a2efc61afb62bc6a"},{"href":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf"}],"documentFingerprint":"e76ce310863e7a41a2efc61afb62bc6a"},"uri":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf","target":[{"source":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf","selector":[{"type":"TextPositionSelector","start":86411,"end":86642},{"type":"TextQuoteSelector","exact":"Step 1. Identify network applications and services.Step 2. Define the organizational goals.Step 3. Define the possible organizational constraints.Step 4. Define the technical goals.Step 5. Define the possible technical constraints.","prefix":"mer requirements are as follows:","suffix":"Step 1:Identify NetworkApplicati"}]}]}
+>```
+>%%
+>*%%PREFIX%%mer requirements are as follows:%%HIGHLIGHT%% ==Step 1. Identify network applications and services.Step 2. Define the organizational goals.Step 3. Define the possible organizational constraints.Step 4. Define the technical goals.Step 5. Define the possible technical constraints.== %%POSTFIX%%Step 1:Identify NetworkApplicati*
+>%%LINK%%[[#^anepw059l8|show annotation]]
+>%%COMMENT%%
+>Steps to identify customer requirements
+>%%TAGS%%
+>
+^anepw059l8
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-12T13:50:13.525Z","text":"Network Service","updated":"2022-11-12T13:50:13.525Z","document":{"title":"CCDA 200-310 Official Cert Guide","link":[{"href":"urn:x-pdf:e76ce310863e7a41a2efc61afb62bc6a"},{"href":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf"}],"documentFingerprint":"e76ce310863e7a41a2efc61afb62bc6a"},"uri":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf","target":[{"source":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf","selector":[{"type":"TextPositionSelector","start":87819,"end":87972},{"type":"TextQuoteSelector","exact":"Network services include security, quality of service (QoS), network management, high availability, unified communications, mobility, and virtualization.","prefix":"rvices should also be gathered. ","suffix":"For organizational goals, you sh"}]}]}
+>```
+>%%
+>*%%PREFIX%%rvices should also be gathered.%%HIGHLIGHT%% ==Network services include security, quality of service (QoS), network management, high availability, unified communications, mobility, and virtualization.== %%POSTFIX%%For organizational goals, you sh*
+>%%LINK%%[[#^iul4sli2lr|show annotation]]
+>%%COMMENT%%
+>Network Service
+>%%TAGS%%
+>
+^iul4sli2lr
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-12T13:50:46.761Z","text":"Organizational goals","updated":"2022-11-12T13:50:46.761Z","document":{"title":"CCDA 200-310 Official Cert Guide","link":[{"href":"urn:x-pdf:e76ce310863e7a41a2efc61afb62bc6a"},{"href":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf"}],"documentFingerprint":"e76ce310863e7a41a2efc61afb62bc6a"},"uri":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf","target":[{"source":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf","selector":[{"type":"TextPositionSelector","start":88287,"end":88380},{"type":"TextQuoteSelector","exact":"■ Increase competitiveness■ Reduce costs■ Improve customer support■ Add new customer services","prefix":"tional goals are as     follows:","suffix":"Organizational constraints inclu"}]}]}
+>```
+>%%
+>*%%PREFIX%%tional goals are as     follows:%%HIGHLIGHT%% ==■ Increase competitiveness■ Reduce costs■ Improve customer support■ Add new customer services== %%POSTFIX%%Organizational constraints inclu*
+>%%LINK%%[[#^5lixknzbtgj|show annotation]]
+>%%COMMENT%%
+>Organizational goals
+>%%TAGS%%
+>
+^5lixknzbtgj
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-12T13:51:26.754Z","text":"Application","updated":"2022-11-12T13:51:26.754Z","document":{"title":"CCDA 200-310 Official Cert Guide","link":[{"href":"urn:x-pdf:e76ce310863e7a41a2efc61afb62bc6a"},{"href":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf"}],"documentFingerprint":"e76ce310863e7a41a2efc61afb62bc6a"},"uri":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf","target":[{"source":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf","selector":[{"type":"TextPositionSelector","start":87365,"end":87673},{"type":"TextQuoteSelector","exact":"■ Planned application types: Such as email, collaboration, voice, web browsing, file shar-ing, and database■ Concrete applications: Such as Outlook and MeetingPlace■ Business importance: Labeled as critical, important, or unimportant■ Comment: Any additional information critical to the design of the network","prefix":"tions should list the following:","suffix":"From the Library of Javier Eduar"}]}]}
+>```
+>%%
+>*%%PREFIX%%tions should list the following:%%HIGHLIGHT%% ==■ Planned application types: Such as email, collaboration, voice, web browsing, file shar-ing, and database■ Concrete applications: Such as Outlook and MeetingPlace■ Business importance: Labeled as critical, important, or unimportant■ Comment: Any additional information critical to the design of the network== %%POSTFIX%%From the Library of Javier Eduar*
+>%%LINK%%[[#^2tbuk4khtnd|show annotation]]
+>%%COMMENT%%
+>Application
+>%%TAGS%%
+>
+^2tbuk4khtnd
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-12T13:52:40.130Z","text":"Organizational constraints","updated":"2022-11-12T13:52:40.130Z","document":{"title":"CCDA 200-310 Official Cert Guide","link":[{"href":"urn:x-pdf:e76ce310863e7a41a2efc61afb62bc6a"},{"href":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf"}],"documentFingerprint":"e76ce310863e7a41a2efc61afb62bc6a"},"uri":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf","target":[{"source":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf","selector":[{"type":"TextPositionSelector","start":88380,"end":88454},{"type":"TextQuoteSelector","exact":"Organizational constraints include budget, personnel, policy, and schedule","prefix":"pport■ Add new customer services","suffix":". The company might limit you to"}]}]}
+>```
+>%%
+>*%%PREFIX%%pport■ Add new customer services%%HIGHLIGHT%% ==Organizational constraints include budget, personnel, policy, and schedule== %%POSTFIX%%. The company might limit you to*
+>%%LINK%%[[#^74obvw1knw|show annotation]]
+>%%COMMENT%%
+>Organizational constraints
+>%%TAGS%%
+>
+^74obvw1knw
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-12T13:56:26.765Z","text":"Technical goals","updated":"2022-11-12T13:56:26.765Z","document":{"title":"CCDA 200-310 Official Cert Guide","link":[{"href":"urn:x-pdf:e76ce310863e7a41a2efc61afb62bc6a"},{"href":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf"}],"documentFingerprint":"e76ce310863e7a41a2efc61afb62bc6a"},"uri":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf","target":[{"source":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf","selector":[{"type":"TextPositionSelector","start":88870,"end":89176},{"type":"TextQuoteSelector","exact":"■ Improve the network’s response-time throughput■ Decrease network failures and downtime (high availability)■ Simplify network management■ Improve network security■ Improve reliability of mission-critical applications■ Modernize outdated technologies (technology refresh)■ Improve the network’s scalability","prefix":"cal goals include the following:","suffix":"Network design might be constrai"}]}]}
+>```
+>%%
+>*%%PREFIX%%cal goals include the following:%%HIGHLIGHT%% ==■ Improve the network’s response-time throughput■ Decrease network failures and downtime (high availability)■ Simplify network management■ Improve network security■ Improve reliability of mission-critical applications■ Modernize outdated technologies (technology refresh)■ Improve the network’s scalability== %%POSTFIX%%Network design might be constrai*
+>%%LINK%%[[#^m0w31vugv3|show annotation]]
+>%%COMMENT%%
+>Technical goals
+>%%TAGS%%
+>
+^m0w31vugv3
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-12T13:57:30.319Z","text":"Technical Constraints","updated":"2022-11-12T13:57:30.319Z","document":{"title":"CCDA 200-310 Official Cert Guide","link":[{"href":"urn:x-pdf:e76ce310863e7a41a2efc61afb62bc6a"},{"href":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf"}],"documentFingerprint":"e76ce310863e7a41a2efc61afb62bc6a"},"uri":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf","target":[{"source":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf","selector":[{"type":"TextPositionSelector","start":89456,"end":89674},{"type":"TextQuoteSelector","exact":"■ Existing wiring does not support new technology.■ Bandwidth might not support new applications.■ The network must support existing legacy equipment.■ Legacy applications must be supported (application compatibility).","prefix":"nstraints include the following:","suffix":"Characterizing the Existing Netw"}]}]}
+>```
+>%%
+>*%%PREFIX%%nstraints include the following:%%HIGHLIGHT%% ==■ Existing wiring does not support new technology.■ Bandwidth might not support new applications.■ The network must support existing legacy equipment.■ Legacy applications must be supported (application compatibility).== %%POSTFIX%%Characterizing the Existing Netw*
+>%%LINK%%[[#^32vxnilrbwl|show annotation]]
+>%%COMMENT%%
+>Technical Constraints
+>%%TAGS%%
+>
+^32vxnilrbwl
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-12T14:07:34.114Z","text":"Design Methodology","updated":"2022-11-12T14:07:34.114Z","document":{"title":"CCDA 200-310 Official Cert Guide","link":[{"href":"urn:x-pdf:e76ce310863e7a41a2efc61afb62bc6a"},{"href":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf"}],"documentFingerprint":"e76ce310863e7a41a2efc61afb62bc6a"},"uri":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf","target":[{"source":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf","selector":[{"type":"TextPositionSelector","start":84976,"end":85120},{"type":"TextQuoteSelector","exact":"Step 1. Identifying customer network requirementsStep 2. Characterizing the existing networkStep 3. Designing the network topology and solutions","prefix":"ign methodology has three steps:","suffix":"In Step 1, decision makers ident"}]}]}
+>```
+>%%
+>*%%PREFIX%%ign methodology has three steps:%%HIGHLIGHT%% ==Step 1. Identifying customer network requirementsStep 2. Characterizing the existing networkStep 3. Designing the network topology and solutions== %%POSTFIX%%In Step 1, decision makers ident*
+>%%LINK%%[[#^b3au978tcrj|show annotation]]
+>%%COMMENT%%
+>Design Methodology
+>%%TAGS%%
+>
+^b3au978tcrj
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-12T15:30:21.664Z","text":"Characterizing the existing Network","updated":"2022-11-12T15:30:21.664Z","document":{"title":"CCDA 200-310 Official Cert Guide","link":[{"href":"urn:x-pdf:e76ce310863e7a41a2efc61afb62bc6a"},{"href":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf"}],"documentFingerprint":"e76ce310863e7a41a2efc61afb62bc6a"},"uri":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf","target":[{"source":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf","selector":[{"type":"TextPositionSelector","start":90390,"end":90669},{"type":"TextQuoteSelector","exact":"Step 1. Identify properties of the existing network: network topology, technologies, and applications. Use existing documentation and organizational input.Step 2. Perform a network audit that adds detail to the description of the network.Step 3. Analyze the gathered information.","prefix":"steps for gathering information:","suffix":"When gathering existing document"}]}]}
+>```
+>%%
+>*%%PREFIX%%steps for gathering information:%%HIGHLIGHT%% ==Step 1. Identify properties of the existing network: network topology, technologies, and applications. Use existing documentation and organizational input.Step 2. Perform a network audit that adds detail to the description of the network.Step 3. Analyze the gathered information.== %%POSTFIX%%When gathering existing document*
+>%%LINK%%[[#^t3ymlicogg|show annotation]]
+>%%COMMENT%%
+>Characterizing the existing Network
+>%%TAGS%%
+>
+^t3ymlicogg
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-12T15:35:55.704Z","text":"Checklist for network audit","updated":"2022-11-12T15:35:55.704Z","document":{"title":"CCDA 200-310 Official Cert Guide","link":[{"href":"urn:x-pdf:e76ce310863e7a41a2efc61afb62bc6a"},{"href":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf"}],"documentFingerprint":"e76ce310863e7a41a2efc61afb62bc6a"},"uri":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf","target":[{"source":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf","selector":[{"type":"TextPositionSelector","start":98955,"end":100338},{"type":"TextQuoteSelector","exact":"■ New segments should use switches and not use dated hub/shared technology.■ No WAN links are saturated (no more than 70 percent sustained network utilization).■ The response time is generally less than 100ms (one-tenth of a second); more commonly, less than 2ms in a LAN.■ No segments have more than 20 percent broadcasts or multicast traffic. Broadcasts are sent to all hosts in a network and should be limited. Multicast traffic is sent to a group of hosts but should also be controlled and limited to only those hosts registered to receive it.■ No segments have more than one cyclic redundancy check (CRC) error per million bytes of data.■ On the        Ethernet segments, less than 0.1 percent of the packets result in collisions.■ A CPU utilization at or more than 75 percent for a 5-minute interval likely suggests net-work problems. Normal CPU utilization should be much lower during normal periods.■ The number of output queue drops has not exceeded 100 in an hour on any Cisco router.■ The number of input queue drops has not exceeded 50 in an hour on any Cisco router.■ The number of buffer misses has not exceeded 25 in an hour on any Cisco router.■ The number of ignored packets has not exceeded 10 in an hour on any interface on a Cisco router.■ QoS should be enabled on network devices to allow for prioritization of time-sensitive or bandwidth-sensitive applications.","prefix":"rmine a network’s health status:","suffix":"Table 1-10 summarizes areas in c"}]}]}
+>```
+>%%
+>*%%PREFIX%%rmine a network’s health status:%%HIGHLIGHT%% ==■ New segments should use switches and not use dated hub/shared technology.■ No WAN links are saturated (no more than 70 percent sustained network utilization).■ The response time is generally less than 100ms (one-tenth of a second); more commonly, less than 2ms in a LAN.■ No segments have more than 20 percent broadcasts or multicast traffic. Broadcasts are sent to all hosts in a network and should be limited. Multicast traffic is sent to a group of hosts but should also be controlled and limited to only those hosts registered to receive it.■ No segments have more than one cyclic redundancy check (CRC) error per million bytes of data.■ On the        Ethernet segments, less than 0.1 percent of the packets result in collisions.■ A CPU utilization at or more than 75 percent for a 5-minute interval likely suggests net-work problems. Normal CPU utilization should be much lower during normal periods.■ The number of output queue drops has not exceeded 100 in an hour on any Cisco router.■ The number of input queue drops has not exceeded 50 in an hour on any Cisco router.■ The number of buffer misses has not exceeded 25 in an hour on any Cisco router.■ The number of ignored packets has not exceeded 10 in an hour on any interface on a Cisco router.■ QoS should be enabled on network devices to allow for prioritization of time-sensitive or bandwidth-sensitive applications.== %%POSTFIX%%Table 1-10 summarizes areas in c*
+>%%LINK%%[[#^xsoeddx6ek8|show annotation]]
+>%%COMMENT%%
+>Checklist for network audit
+>%%TAGS%%
+>
+^xsoeddx6ek8
