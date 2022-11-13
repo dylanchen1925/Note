@@ -478,3 +478,17 @@ annotation-target: CCDA_Official_Cert_Guide_5th.pdf
 >%%TAGS%%
 >
 ^98sjj6swmt7
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T15:23:39.523Z","text":"Cisco Enterprise Architecture Model","updated":"2022-11-13T15:23:39.523Z","document":{"title":"CCDA 200-310 Official Cert Guide","link":[{"href":"urn:x-pdf:e76ce310863e7a41a2efc61afb62bc6a"},{"href":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf"}],"documentFingerprint":"e76ce310863e7a41a2efc61afb62bc6a"},"uri":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf","target":[{"source":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf","selector":[{"type":"TextPositionSelector","start":138112,"end":138223},{"type":"TextQuoteSelector","exact":"■ Enterprise campus area■ Enterprise data center module■ Enterprise branch module■ Enterprise teleworker module","prefix":"isco Enterprise Architecture are","suffix":"The Cisco Enterprise Architectur"}]}]}
+>```
+>%%
+>*%%PREFIX%%isco Enterprise Architecture are%%HIGHLIGHT%% ==■ Enterprise campus area■ Enterprise data center module■ Enterprise branch module■ Enterprise teleworker module== %%POSTFIX%%The Cisco Enterprise Architectur*
+>%%LINK%%[[#^6dx766plc39|show annotation]]
+>%%COMMENT%%
+>Cisco Enterprise Architecture Model
+>%%TAGS%%
+>
+^6dx766plc39
