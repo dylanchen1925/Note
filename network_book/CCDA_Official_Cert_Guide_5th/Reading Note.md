@@ -408,3 +408,73 @@ annotation-target: CCDA_Official_Cert_Guide_5th.pdf
 >%%TAGS%%
 >
 ^xsoeddx6ek8
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T06:04:59.345Z","text":"Top-Down Approach","updated":"2022-11-13T06:04:59.345Z","document":{"title":"CCDA 200-310 Official Cert Guide","link":[{"href":"urn:x-pdf:e76ce310863e7a41a2efc61afb62bc6a"},{"href":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf"}],"documentFingerprint":"e76ce310863e7a41a2efc61afb62bc6a"},"uri":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf","target":[{"source":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf","selector":[{"type":"TextPositionSelector","start":101790,"end":102100},{"type":"TextQuoteSelector","exact":"■ Analysis of application and organization requirements.■ Design from the top of the OSI reference model:■ Defi ne requirements for upper layers (application, presentation, session).■ Specify infrastructure for lower OSI layers (transport, network, data link, physical).■ Gather additional data on the network.","prefix":", the following is accomplished:","suffix":"Figure 1-7 shows a top-down stru"}]}]}
+>```
+>%%
+>*%%PREFIX%%, the following is accomplished:%%HIGHLIGHT%% ==■ Analysis of application and organization requirements.■ Design from the top of the OSI reference model:■ Defi ne requirements for upper layers (application, presentation, session).■ Specify infrastructure for lower OSI layers (transport, network, data link, physical).■ Gather additional data on the network.== %%POSTFIX%%Figure 1-7 shows a top-down stru*
+>%%LINK%%[[#^jdpkxk6wf0o|show annotation]]
+>%%COMMENT%%
+>Top-Down Approach
+>%%TAGS%%
+>
+^jdpkxk6wf0o
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T06:19:36.589Z","text":"Pilot and Prototype Tests","updated":"2022-11-13T06:19:36.589Z","document":{"title":"CCDA 200-310 Official Cert Guide","link":[{"href":"urn:x-pdf:e76ce310863e7a41a2efc61afb62bc6a"},{"href":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf"}],"documentFingerprint":"e76ce310863e7a41a2efc61afb62bc6a"},"uri":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf","target":[{"source":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf","selector":[{"type":"TextPositionSelector","start":103257,"end":103439},{"type":"TextQuoteSelector","exact":"As soon as the design is complete and before the full implementation, it is a best practice to test the new solution. This testing can be done in one of two ways: prototype or pilot.","prefix":"cluded.Pilot and Prototype Tests","suffix":"A prototype network     is a sub"}]}]}
+>```
+>%%
+>*%%PREFIX%%cluded.Pilot and Prototype Tests%%HIGHLIGHT%% ==As soon as the design is complete and before the full implementation, it is a best practice to test the new solution. This testing can be done in one of two ways: prototype or pilot.== %%POSTFIX%%A prototype network     is a sub*
+>%%LINK%%[[#^niruopbi4i|show annotation]]
+>%%COMMENT%%
+>Pilot and Prototype Tests
+>%%TAGS%%
+>
+^niruopbi4i
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T07:57:32.919Z","text":"Design Document should includes: part 1","updated":"2022-11-13T07:57:32.919Z","document":{"title":"CCDA 200-310 Official Cert Guide","link":[{"href":"urn:x-pdf:e76ce310863e7a41a2efc61afb62bc6a"},{"href":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf"}],"documentFingerprint":"e76ce310863e7a41a2efc61afb62bc6a"},"uri":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf","target":[{"source":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf","selector":[{"type":"TextPositionSelector","start":104783,"end":105292},{"type":"TextQuoteSelector","exact":"■ Introduction: This section describes the project’s purpose and the reasons for the net-work design.■ Design Requirements: This section lists the organization’s requirements, constraints, and goals.■ Existing Network Infrastructure: This section includes logical (Layer 3) topology dia-grams; physical topology diagrams; audit results; network health analysis; routing proto-cols; a summary of applications; a list of network routers, switches, and other devices; configurations; and a description of issues.","prefix":"include the follow-ing sections:","suffix":"From the Library of Javier Eduar"}]}]}
+>```
+>%%
+>*%%PREFIX%%include the follow-ing sections:%%HIGHLIGHT%% ==■ Introduction: This section describes the project’s purpose and the reasons for the net-work design.■ Design Requirements: This section lists the organization’s requirements, constraints, and goals.■ Existing Network Infrastructure: This section includes logical (Layer 3) topology dia-grams; physical topology diagrams; audit results; network health analysis; routing proto-cols; a summary of applications; a list of network routers, switches, and other devices; configurations; and a description of issues.== %%POSTFIX%%From the Library of Javier Eduar*
+>%%LINK%%[[#^28cp41d8i91|show annotation]]
+>%%COMMENT%%
+>Design Document should includes: part 1
+>%%TAGS%%
+>
+^28cp41d8i91
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T07:57:58.450Z","text":"Design Document should includes: part 2","updated":"2022-11-13T07:57:58.450Z","document":{"title":"CCDA 200-310 Official Cert Guide","link":[{"href":"urn:x-pdf:e76ce310863e7a41a2efc61afb62bc6a"},{"href":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf"}],"documentFingerprint":"e76ce310863e7a41a2efc61afb62bc6a"},"uri":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf","target":[{"source":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf","selector":[{"type":"TextPositionSelector","start":105381,"end":105982},{"type":"TextQuoteSelector","exact":"■ Design: This section contains the specific design information, such as logical and physi-cal topology, IP addressing, routing protocols, and security configurations.■ Proof of Concept: This section results from live pilot or prototype testing.■ Implementation Plan: This section includes the detailed steps for the network staff to implement the new installation and changes. It also includes configuration templates for LAN switches and WAN routers.■ Appendixes: This section contains a list of existing network devices, configurations, and additional information used in the design of the network.","prefix":"CCDA 200-310 Official Cert Guide","suffix":"Table 1-12 summarizes the conten"}]}]}
+>```
+>%%
+>*%%PREFIX%%CCDA 200-310 Official Cert Guide%%HIGHLIGHT%% ==■ Design: This section contains the specific design information, such as logical and physi-cal topology, IP addressing, routing protocols, and security configurations.■ Proof of Concept: This section results from live pilot or prototype testing.■ Implementation Plan: This section includes the detailed steps for the network staff to implement the new installation and changes. It also includes configuration templates for LAN switches and WAN routers.■ Appendixes: This section contains a list of existing network devices, configurations, and additional information used in the design of the network.== %%POSTFIX%%Table 1-12 summarizes the conten*
+>%%LINK%%[[#^y1j7uskfsg|show annotation]]
+>%%COMMENT%%
+>Design Document should includes: part 2
+>%%TAGS%%
+>
+^y1j7uskfsg
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T08:24:06.302Z","text":"Benefits of Hierarchical Model","updated":"2022-11-13T08:24:06.302Z","document":{"title":"CCDA 200-310 Official Cert Guide","link":[{"href":"urn:x-pdf:e76ce310863e7a41a2efc61afb62bc6a"},{"href":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf"}],"documentFingerprint":"e76ce310863e7a41a2efc61afb62bc6a"},"uri":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf","target":[{"source":"vault:/network_book/CCDA_Official_Cert_Guide_5th/CCDA_Official_Cert_Guide_5th.pdf","selector":[{"type":"TextPositionSelector","start":123539,"end":123626},{"type":"TextQuoteSelector","exact":"■ Cost savings■ Ease of understanding■ Modular network growth■ Improved fault isolation","prefix":"rk design include the following:","suffix":"After adopting hierarchical desi"}]}]}
+>```
+>%%
+>*%%PREFIX%%rk design include the following:%%HIGHLIGHT%% ==■ Cost savings■ Ease of understanding■ Modular network growth■ Improved fault isolation== %%POSTFIX%%After adopting hierarchical desi*
+>%%LINK%%[[#^98sjj6swmt7|show annotation]]
+>%%COMMENT%%
+>Benefits of Hierarchical Model
+>%%TAGS%%
+>
+^98sjj6swmt7
